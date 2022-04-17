@@ -1,7 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-import mutagen, glob, requests, os.path
+import mutagen
+import glob
+import requests
+import os.path
 
 # The page of the album or the single
 site = "https://mora.jp/package/43000087/SECL02421B00Z/"
