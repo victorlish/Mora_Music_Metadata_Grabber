@@ -1,4 +1,4 @@
-# Mora_Music_Metadata_Grabber
+# Mora Music Metadata Grabber
 The program grabs the song metadata from mora.jp website pages and save that metadata into flac files.
 
 ## Implementation Notes
